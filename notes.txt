@@ -1,0 +1,5 @@
+
+#Episode 2
+    1) package.json is a configuration for npm
+    2) there are 2 type of dependacy app can have i) dev dependacy ii) normal dependacy. Dev dependacy is generaly required in dev phase and normal dependacy used in production also.
+    3) https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json
